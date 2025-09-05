@@ -1,6 +1,7 @@
 # 🌱 AgriVision – Crop Health Monitoring (GEE)
 
-![AgriVision Banner](./image/AgriVision_Banner.png)
+<img width="1366" height="711" alt="{7A690E34-D305-402A-BA10-1DCA35433375}" src="https://github.com/user-attachments/assets/1e9c184a-5ced-4a07-a391-7ecd9d3d97cf" />
+
 
 ---
 
