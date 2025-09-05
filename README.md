@@ -1,3 +1,5 @@
+![AgriVision Banner](ChatGPT%20Image%20Sep%201,%202025,%2004_09_11%20PM.png)
+
 🌱 AgriVision – Crop Health Monitoring (GEE)
 
 📌 About the Project
