@@ -1,48 +1,51 @@
-![AgriVision Banner](ChatGPT%20Image%20Sep%201,%202025,%2004_09_11%20PM.png)
+# 🌱 AgriVision – Crop Health Monitoring (GEE)
 
-🌱 AgriVision – Crop Health Monitoring (GEE)
+![AgriVision Banner](./ChatGPT Image Sep 1, 2025, 04_09_11 PM.png)
 
-📌 About the Project
+---
 
-AgriVision is a satellite-based crop health monitoring system powered by Google Earth Engine (GEE).
-It helps farmers, co-ops, and agri-businesses make data-driven decisions using:
+## 📌 About the Project
+**AgriVision** is a satellite-based crop health monitoring tool using **Google Earth Engine (GEE)**.  
+It provides real-time insights for farmers, agri-businesses, and co-operatives to make data-driven decisions.
 
-🌍 NDVI Analysis – Crop health & vegetation monitoring
+---
 
-💧 Water Stress Detection – Early identification of water deficiency
+## ✨ Key Features
+- 🛰 **NDVI Analysis** – Detect crop stress and vegetation health.  
+- 🌦 **Weather & Water Stress** – Monitor soil moisture and rainfall impact.  
+- 📊 **Yield Prediction** – Estimate productivity using AI-driven models.  
+- 🗺 **Interactive Maps** – High-resolution visualizations for better decision-making.  
+- 📑 **Automated Reports** – Generate PDF-based insights for farmers & clients.  
 
-🌾 Yield Prediction – Data-backed forecasts for better planning
+---
 
-⚙️ Features
+## 📷 Sample Results
 
-✅ Easy-to-understand crop health reports (PDF format)
-✅ Automated processing via Google Earth Engine
-✅ Scalable solution for smallholders to large agri-businesses
-✅ Demo report attached: 📑 Crop Health Report
+### Satellite-based NDVI Map
+![NDVI Map](./images/satellite-ndvi.png)
 
-📊 Use Cases
+### Yield Prediction Insights
+![Yield Insights](./images/yield-prediction.png)
 
-👩‍🌾 Farmers – Monitor crop growth & detect stress early
+---
 
-🏢 Agri-businesses – Optimize inputs and reduce losses
+## 🚀 Workflow
+1. Data Collection – Satellite (Sentinel, Landsat)  
+2. Processing – Google Earth Engine scripts  
+3. Analysis – NDVI, NDWI, and stress detection  
+4. Reporting – Interactive maps + PDF reports  
 
-🤝 Co-operatives – Support members with data-driven insights
+---
 
-🚀 How It Works
+## 📂 Repository Structure
 
-Upload farm boundary / shapefile
+---
 
-System fetches satellite imagery (Sentinel / Landsat)
+## 📞 Contact
+👨‍💻 **Bhojesh Nimje**  
+📧 Email: [nimjebhojesh@gmail.com](mailto:nimjebhojesh@gmail.com)  
+📱 Phone: +91 7887489072  
 
-NDVI & other vegetation indices calculated
+---
 
-Automatic PDF report generated for farmers
-
-📞 Contact
-
-💡 Want to collaborate or request a demo?
-📩 Email: bhojju.rs.gis@gmail.com
-
-🌐 GitHub: bhojju-rs-gis
-
-⚡ Empowering farmers with space technology – because healthy crops mean a healthy future. 🌍🌱
+⭐ If you like this project, please **star the repository** to support!  
