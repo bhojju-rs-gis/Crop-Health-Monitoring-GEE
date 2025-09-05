@@ -1,5 +1,8 @@
-# 🌱 AgriVision – Crop Health Monitoring 
+# 🌱 AgriVision – Crop Health Monitoring  
+
 ![AgriVision Banner](image/agrivision_banner.png)
+
+
 ---
 
 ## 📖 About the Project  
