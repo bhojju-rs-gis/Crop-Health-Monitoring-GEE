@@ -1,6 +1,7 @@
 # 🌱 AgriVision – Crop Health Monitoring (GEE)  
 
-![AgriVision Banner](image/agrivision_banner.png)  
+![AgriVision Banner](image/agrivision_banner.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth" />
