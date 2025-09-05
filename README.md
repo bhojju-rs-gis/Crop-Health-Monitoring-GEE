@@ -72,9 +72,9 @@ git clone https://github.com/<your-username>/Crop-Health-Monitoring-GEE.git
 💡 Ideas, issues, and pull requests are welcome!
 Let’s build the future of smart farming together 🚜🌱
 
-📬 Contact
+📬 Contact:7887489072
 
-📧 Email: yourname@example.com
+📧 Email: nimjebhojesh@gmail.com
 
 🌐 Website: Coming Soon
 🔗 LinkedIn / GitHub: Add your profile link
